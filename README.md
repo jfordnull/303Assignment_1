@@ -1,8 +1,12 @@
 # 303Assignment_1
 Program consists of Header.h, Implementation.cpp, main.cpp, as well as "SampleInput.txt"
+
 main provides the interface for testing the functions defined in Header.h and implemented in Implementation.cpp
+
 Check comments in main.cpp and Implementation.cpp for function explanations
+
 Example output:
+
 
 ![Output_1](https://user-images.githubusercontent.com/90845996/192075738-cae61543-6129-4827-9daf-940a7726893f.png)
 

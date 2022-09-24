@@ -18,7 +18,7 @@ Searching. Modifying index 22 to 9525
 
 ![Output_3](https://user-images.githubusercontent.com/90845996/192075742-bae899f3-0373-4197-a41c-49fc85945683.png)
 
-Appending 100 at index 100 (and expanding array)
+Appending 100 at index 100 (and expanding array capacity * 2)
 
 ![Output_4](https://user-images.githubusercontent.com/90845996/192075744-471c32b0-f563-4a62-9543-2c90c8e2b94a.png)
 

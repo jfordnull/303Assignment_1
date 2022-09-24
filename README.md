@@ -22,5 +22,5 @@ Appending 100 at index 100 (and expanding array)
 
 ![Output_4](https://user-images.githubusercontent.com/90845996/192075744-471c32b0-f563-4a62-9543-2c90c8e2b94a.png)
 
-Removing element at index 4
+Removing element at index 4, shifting all elements with index > 4 to -1 index
 
